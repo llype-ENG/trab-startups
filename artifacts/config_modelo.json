@@ -1,0 +1,5 @@
+{
+    "tipo": "machine_learning",
+    "nome": "gradient_boosting_poisson",
+    "arquivo": "modelo_previsao.joblib"
+}

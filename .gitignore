@@ -1,0 +1,9 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+data/raw/
+data/processed/*
+!data/processed/acidentes_por_trecho_mes.csv
+!data/processed/previsao_janeiro_2026.csv
+!data/processed/metricas_modelos.csv
+artifacts/*.joblib
